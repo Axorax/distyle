@@ -1,0 +1,29 @@
+{
+  "name": "distyle",
+  "version": "1.0.0",
+  "description": "Discord Style CSS Library",
+  "main": "distyle.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/distyle.git"
+  },
+  "keywords": [
+    "discord",
+    "discord",
+    "colors",
+    "CSS",
+    "discord",
+    "palette",
+    "discord",
+    "css"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/distyle/issues"
+  },
+  "homepage": "https://github.com/Axorax/distyle#readme"
+}
